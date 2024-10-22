@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Configuration>
-    <Settings>
-        <ekipBuyuklugu>5</ekipBuyuklugu>
-        <istirahatGunu>2</istirahatGunu>
-        <gunPuanlari>16,8,8,8,8,16,24</gunPuanlari>
-    </Settings>
-    <Personels>i,s,i,m,l,e,r</Personels>
-</Configuration>
